@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\josep\downloads\receipt.h(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\josep\downloads\receipt.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  POS.vcxproj -> C:\Users\josep\OneDrive\documents\visual studio 2015\Projects\POS\Debug\POS.exe
+  POS.vcxproj -> C:\Users\josep\OneDrive\documents\visual studio 2015\Projects\POS\Debug\POS.pdb (Partial PDB)
